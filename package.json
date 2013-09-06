@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-findbyids",
+  "version": "0.0.0",
+  "description": "Find documents in a MongoDB collection by an array of IDs",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gulthor/mongoose-findbyids.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "collection",
+    "documents",
+    "findbyids",
+    "findbyid"
+  ],
+  "author": "Jean-Baptiste Musso <jbmusso+github@gmail.com> (https://github.com/gulthor)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulthor/mongoose-findbyids/issues"
+  },
+  "peerDependencies": {
+    "mongoose": "3.x"
+  },
+  "dependencies": {
+    "parent-require": "~1.0.0"
+  }
+}
